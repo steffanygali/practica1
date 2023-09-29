@@ -4,7 +4,7 @@ void setup() {
   pinMode(led_FLASH, OUTPUT);
 }
 
-void lp() {
+void loop() {
   digitalWrite(led_FLASH, 
   delay (1000); 
   digitalWrite(led_FLASH, 
