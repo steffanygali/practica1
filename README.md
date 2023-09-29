@@ -6,7 +6,7 @@ void setup() {
 
 void lp() {
   digitalWrite(led_FLASH, 
-  delay (10); 
+  delay (1000); 
   digitalWrite(led_FLASH, 
   delay (1000); 
 }
