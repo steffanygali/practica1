@@ -8,5 +8,5 @@ void lp() {
   digitalWrite(led_FLASH, 
   delay (10); 
   digitalWrite(led_FLASH, 
-  delay (000); 
+  delay (1000); 
 }
